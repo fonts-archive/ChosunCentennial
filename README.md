@@ -1,4 +1,4 @@
-# ChosunCentennial
+# Chosun Centennial
 
 [Visit Source](https://event.chosun.com/100/100font.html)
 
